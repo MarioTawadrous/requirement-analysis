@@ -9,3 +9,5 @@ Key Activities in Requirement Analysis.
 Types of Requirements.
   - Functional Requirements 
   - Non-functional Requirements
+
+Acceptance Criteria
